@@ -33,5 +33,36 @@
     "logic_state": "unavailable",
     "description": "This work will not be rescued because it is just a simple template",
     "versions": {}
+  },
+  "[144881]房主哭,房员死": {
+    "publish_id": "224234259",
+    "structure_state": "unplanned",
+    "gameplay_state": "unplanned",
+    "logic_state": "unavailable",
+    "description": "This work will not be rescued because it is just a simple template",
+    "versions": {}
+  },
+  "[144881]《电路者》2(2.13)": {
+    "publish_id": "224234259",
+    "structure_state": "unplanned",
+    "gameplay_state": "unplanned",
+    "logic_state": "unplanned",
+    "description": "This work will not be rescued because it is for Mini World old players",
+    "versions": {}
+  },
+  "[144881]彩蛋大战": {
+    "publish_id": "224234259",
+    "structure_state": "unavailable",
+    "gameplay_state": "succeed",
+    "logic_state": "unavailable",
+    "description": "The original name of this work is “[144881]分数快来!”",
+    "versions": {
+      "minecraft_datapack": {
+        "latest": "v0.1",
+        "license": "LGPLv3",
+        "languages": ["en_en", "zh_hans"],
+        "required": ["client_version>=1.16"]
+      },
+    }
   }
 }
