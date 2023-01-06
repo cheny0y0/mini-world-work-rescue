@@ -4,6 +4,26 @@
     "structure_state": "succeed",
     "gameplay_state": "succeed",
     "logic_state": "unavailable",
-    "description": ""
+    "description": "",
+    "versions": {
+      "minecraft_datapack": {
+        "latest": "v0.3",
+        "license": "LGPLv3",
+        "languages": ["zh_hans"],
+        "required": ["client_version>=1.16"]
+      },
+      "minecraft_world_je": {
+        "latest": "v0.5.3",
+        "license": "LGPLv3",
+        "languages": ["zh_hans", "en_en"],
+        "required": ["client_version>=1.16"]
+      },
+      "json_structure": {
+        "latest": null,
+        "license": "CC BY 4.0",
+        "languages": [],
+        "required": []
+      }
+    }
   }
 }
