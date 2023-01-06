@@ -25,5 +25,13 @@
         "required": []
       }
     }
+  },
+  "[144881]房主有信号强{模}": {
+    "publish_id": "224234259",
+    "structure_state": "unplanned",
+    "gameplay_state": "unplanned",
+    "logic_state": "unavailable",
+    "description": "This work will not be rescued because it is just a simple template",
+    "versions": {}
   }
 }
