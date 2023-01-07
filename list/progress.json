@@ -19,7 +19,7 @@
         "required": ["client_version>=1.16"]
       },
       "json_structure": {
-        "latest": v0.1,
+        "latest": "v0.1",
         "license": "CC BY 4.0",
         "languages": [],
         "required": []
