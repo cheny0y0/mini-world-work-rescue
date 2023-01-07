@@ -62,7 +62,15 @@
         "license": "LGPLv3",
         "languages": ["en_en", "zh_hans"],
         "required": ["client_version>=1.16"]
-      },
+      }
     }
+  },
+  "[144881]彩字闪字☆": {
+    "publish_id": "255627437"
+    "structure_state": "unplanned",
+    "gameplay_state": "unplanned",
+    "logic_state": "unavailable",
+    "description": "This work will not be rescued because it is just a tutorial for Mini World",
+    "versions": {}
   }
 }
