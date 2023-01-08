@@ -1079,10 +1079,18 @@
     },
     {
       "fill": 6,
-      "from": [-2, 7, 14],
+      "from": [-2, 8, 8],
       "data": {
         "facing": "e",
-        "content": "Fo"
+        "content": "#B蓝队男生"
+      }
+    },
+    {
+      "fill": 6,
+      "from": [-2, 8, 9],
+      "data": {
+        "facing": "e",
+        "content": "谈#B恋#R爱#n~"
       }
     },
     {
