@@ -1992,7 +1992,7 @@
       "from": [17, 13, -4],
       "data": {
         "facing": "2",
-        "content": "无限取#B水"
+        "content": "#b无限#n取#B水"
       }
     },
     {
@@ -2000,7 +2000,7 @@
       "from": [18, 13, -3],
       "data": {
         "facing": "w",
-        "content": "取中间"
+        "content": "#b取中间"
       }
     },
     {
@@ -2419,7 +2419,7 @@
       "from": [16, 12, 13],
       "data": {
         "facing": "n",
-        "content": "无限取#B水"
+        "content": "#b无限#n取#B水"
       }
     },
     {
