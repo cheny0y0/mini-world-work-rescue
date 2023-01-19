@@ -13,7 +13,7 @@
         "required": ["client_version>=1.16"]
       },
       "minecraft_world_je": {
-        "latest": "v0.5.3",
+        "latest": "v0.8",
         "license": "LGPLv3",
         "languages": ["zh_hans", "en_en"],
         "required": ["client_version>=1.16"]
@@ -72,5 +72,28 @@
     "logic_state": "unavailable",
     "description": "This work will not be rescued because it is just a tutorial for Mini World",
     "versions": {}
+  },
+  "[144881]Falling Fun": {
+    "publish_id": "1010815535"
+    "structure_state": "succeed",
+    "gameplay_state": "succeedd",
+    "logic_state": "unavailable",
+    "description": "",
+    "versions": {}
+  },
+  "[144881]一个方块的生存": {
+    "publish_id": "255627437"
+    "structure_state": "pending",
+    "gameplay_state": "pending",
+    "logic_state": "unavailable",
+    "description": "",
+    "versions": {
+      "minecraft_world_je": {
+        "latest": "v0.1",
+        "license": "LGPLv3",
+        "languages": [],
+        "required": ["client_version>=1.12.2"]
+      }
+    }
   }
 }
