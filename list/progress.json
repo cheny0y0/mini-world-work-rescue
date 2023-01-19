@@ -79,14 +79,6 @@
     "gameplay_state": "succeedd",
     "logic_state": "unavailable",
     "description": "",
-    "versions": {}
-  },
-  "[144881]一个方块的生存": {
-    "publish_id": "255627437"
-    "structure_state": "pending",
-    "gameplay_state": "pending",
-    "logic_state": "unavailable",
-    "description": "",
     "versions": {
       "minecraft_world_je": {
         "latest": "v0.1",
@@ -95,5 +87,13 @@
         "required": ["client_version>=1.12.2"]
       }
     }
+  },
+  "[144881]一个方块的生存": {
+    "publish_id": "255627437"
+    "structure_state": "pending",
+    "gameplay_state": "pending",
+    "logic_state": "unavailable",
+    "description": "",
+    "versions": {}
   }
 }
